@@ -5,7 +5,8 @@
   <groupId>cn.trouts</groupId>
   <artifactId>trouts-pom</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <packaging>jar</packaging>
+<modules><module>trouts-framewrok</module></modules>
+  <packaging>pom</packaging>
 
   <name>trouts-pom</name>
   <url>http://www.trouts.cn</url>
